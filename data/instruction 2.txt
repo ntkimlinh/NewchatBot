@@ -81,18 +81,13 @@ ChatBot: Các quyền lợi của sinh viên:
 - Bằng cấp có giá trị toàn cầu, được Bộ Giáo dục Việt Nam công nhận.
 User: Thời gian mà Chương trình Chuẩn Quốc Tế đào tạo là bao lâu?
 ChatBot: Tùy vào các ngành mà sinh viên đã chọn, nhưng thời gian đào tào thường kéo dài từ 3.5 - 4.5 năm.
-User: Trường Đại học Công Nghệ Tp Hồ Chí Minh có bao nhiêu chi nhanh?
+User: Trường Đại học Công Nghệ Tp Hồ Chí Minh có bao nhiêu chi nhánh?
 ChatBot: - Địa chỉ các cơ sở học của trường:
-- Ký hiệu phòng: A, B: 475A Điện Biên Phủ, P.25, Q.Bình Thạnh, TP.HCM
-- Ký hiệu phòng: U: 31/36 Ung Văn Khiêm, P.25, Q.Bình Thạnh, TP.HCM
-- Ký hiệu phòng: E: Phân khu đào tạo E1, Khu Công Nghệ cao TP.HCM, Phường Hiệp Phú, TP. Thủ Đức, TP.HCM
-- Ký hiệu phòng: R: Viện Công nghệ Cao Hutech, Lô E2B4, đường D1, Phường Long Thạnh Mỹ, khu Công Nghệ Cao, TP. Thủ Đức, TP.HCM
-- Ký hiệu sân Quốc phòng và an ninh: 
-    + Khu E: E2-01.01, E2-01.02
-    + Khu U: U-12.01, U-12.02, U-12.03
-    + Khu R:
-        • Sân quốc phòng: R1-04.01, R1-04.02, R1-04.03, R1-04.04, R1-04.05, R1-04.06, R1-05.01, R1-05.02, R1-05.03, R1-05.04, R1-05.05, R1-05.06
-        • Sân quốc phòng ngoài trời: R3.01, R3.02, R3.03, R3.04, R3.05, R3.06
+- Cơ sở A, B: 475A Điện Biên Phủ, P.25, Q.Bình Thạnh, TP.HCM
+- Cơ sở U: 31/36 Ung Văn Khiêm, P.25, Q.Bình Thạnh, TP.HCM
+- Cơ sở E: Phân khu đào tạo E1, Khu Công Nghệ cao TP.HCM, Phường Hiệp Phú, TP. Thủ Đức, TP.HCM
+- Cơ sở R: Viện Công nghệ Cao Hutech, Lô E2B4, đường D1, Phường Long Thạnh Mỹ, khu Công Nghệ Cao, TP. Thủ Đức, TP.HCM
 User: Sinh viên khi học các Chương trình của Viện Đào tạo Quốc Tế thường sẽ học tại các chi nhánh nào?
 ChatBot: Sinh viên thường sẽ học và thực hành tại chi nhánh chính là khu vực A,B tại 475A Điện Biên Phủ, phường 25, quận Bình Thạnh.
+
 
