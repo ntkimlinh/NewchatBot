@@ -1,20 +1,12 @@
 Đây là ChatBot là có vấn cho Viện quốc tế của đại học Hutech.
-ChatBot: Tôi có thể giúp gì được cho bạn?
 User: Xin chào
-ChatBot: Chào bạn, tôi có thể giúp gì cho bạn?
+ChatBot: Chào bạn, tôi là cố vấn cho Viện quốc tế của đại học Hutech. Tôi có thể giúp gì được cho bạn?
+
 User:  Các chương trình đào tạo có trong Viện Quốc Tế?
 ChatBot: Có 2 chương trình chính là: Chương trình Chuẩn Quốc Tế và Chương trình Liên Kết ( bao gồm Đại học Lincoln - Hoa Kì, Đại học Mở Malaysia - Malaysia, Đại học CY CERGY PARIS - Pháp ).
 User: Các ngành có trong Chương trình Chuẩn Quốc Tế?
-ChatBot: Bao gồm 10 ngành: 
-- Tài chính - ngân hàng.
-- Quan hệ công chúng.
-- Quản trị kinh doanh.
-- Ngôn ngữ Anh.
-- Công nghệ thông tin.
-- Quản trị dịch vụ du lịch và lữ hành.
-- Công nghệ kỹ thuật ô tô.
-- Digital Marketing.
-- Logistics và quản lí chuỗi cung ứng.
+ChatBot: 
+Bao gồm 10 ngành: Tài chính - ngân hàng, Quan hệ công chúng, Quản trị kinh doanh, Ngôn ngữ Anh, Công nghệ thông tin, Quản trị dịch vụ du lịch và lữ hành, Công nghệ kỹ thuật ô tô, Digital Marketing, Logistics và quản lí chuỗi cung ứng.
 User: Các ngành có trong Chương trình Liên kết với Đại học Mở Malaysia - Malaysia?
 ChatBot: Bao gồm 4 ngành:
 - Công nghệ thông tin.

@@ -1,0 +1,251 @@
+Đây là ChatBot là có vấn cho Viện quốc tế của đại học Hutech.
+User: Xin chào
+ChatBot: Chào bạn, tôi là cố vấn cho Viện quốc tế của đại học Hutech. Tôi có thể giúp gì được cho bạn?
+User: Giờ học của từng ca là mấy giờ?
+ChatBot: 
+	+Buổi sáng: Ca 1 (tiết 1,2,3): từ 06g45' đến 09g00' - Ca 2 (tiết 4,5,6): từ 09g20' đến 11g35'
+    +Buổi chiều: Ca 3 (tiết 7,8,9): từ 12g30' đến 14g45' - Ca 4 (tiết 10,11,12): từ 15g05' đến 17g20'
+    + Buổi tối: Ca 5 (tiết 13,14,15): từ 18g00' đến 20g15'
+
+User: Các ngân hàng để đóng học phí?
+ChatBot: Đơn vị thụ hưởng: TRƯỜNG ĐẠI HỌC CÔNG NGHỆ TP. HCM
+Số tài khoản : 
+	1068259999 tại Vietcombank Chi nhánh Tân Sơn Nhất, TP HCM
+	303 600 888 tại ACB – Chi nhánh TP HCM
+	3151 000 109 9999 tại BIDV Chi nhánh Phú Nhuận, TP HCM
+	1600 201058 790 tại Agribank – Chi nhánh Sài Gòn, TP HCM
+	112 000 005 193  tại Vietinbank - Chi nhánh 1, TP.HCM
+	119219 68127012 tại Techcombank– CN Thắng Lợi, TP HCM
+  	060180090099 tại Sacombank–Chi nhánh Trung Tâm, TP HCM
+
+User: Nội dung đống tiền học qua ngân hàng là gì?
+ChatBot: <HỌ VÀ TÊN SINH VIÊN> <MÃ SỐ SINH VIÊN>  
+Vd: Nguyen Van A, 1234567890
+User: Thời gian làm việc của văn phòng Viện đào tạo quốc tế?
+ChatBot: Sáng Thứ 2 đến Thứ 7: từ 7g30 đến 11g30
+Chiều Thứ 2 đến Thứ 6 : từ 13g30 đến 16g30
+
+User: Ngành tài chính - ngân hàng là gì?
+ChatBot: Tài chính ngân hàng là ngành học tương đối rộng, liên quan đến tất cả các dịch vụ giao dịch tài chính, lưu thông và vận hành tiền tệ. Nói một cách cụ thể hơn thì Tài chính ngân hàng là lĩnh vực kinh doanh tiền tệ thông qua ngân hàng, công ty tài chính và các công cụ tài chính được ngân hàng phát hành nhằm bảo lãnh, thanh toán, chi trả trong cả nội địa và quốc tế.
+
+User: Ngành tài chính ngân hàng có các ngành chuyên sâu gì?
+ChatBot: Ngành tài chính ngân hàng có nhiều lĩnh vực. Nhưng tiêu biểu nhất là Ngân hàng, Tài chính ngân hàng, Tài chính thuế, Tài chính bảo hiểm, Đầu tư, Phân tích tài chính, Kinh tế học tài chính,...
+
+User: Mã ngành của ngành Tài Chính - Ngân Hàng là gì?
+ChatBot: Mã ngành của ngành tài chính - ngân hàng là 7340201.
+
+User: Khi tốt nghiệp ngành Tài Chính - Ngân Hàng, sinh viên sẽ nhận được bằng gì? 
+ChatBot: Khi tốt nghiệp, sinh viên sẽ được nhận bằng Cử nhân do Đại học Công Nghệ TP.HCM (Hutech) cấp theo quy định của Bộ Giáo Dục & Đào Tạo. 
+
+User: Các môn đại cương, sinh viên phải học trong ngành Tài Chính - Ngân Hàng là?
+ChatBot: Các môn đại cương mà sinh viên phải học bao gồm: Tiếng Anh, Tư duy thiết kế dự án, Quốc phòng an ninh,Đại số tuyến tính và giải tích, Triết học Mác - Lê Nin, Nhập môn công nghệ thông tin, Quản trị học, Lịch sử đảng cộng sản Việt Nam, Luật và khởi nghiệp, Giáo dục thể chất, Kinh tế chính trị Mác - Lê Nin,Đổi mới sáng tạo và tư duy khởi nghiệp,Tư tưởng Hồ Chí Minh,Chủ nghĩa xã hội khoa học.
+
+User: Tổng số tín chỉ khi học ngành Tài Chính - Ngân Hàng?
+ChatBot: Có tất cả 155 tín chỉ phải hoàn thành.
+
+User: Các môn chuyên ngành tiêu biểu của ngành Tài Chính - Ngân Hàng?
+ChatBot: Các môn chuyên ngành tiêu biểu: Tài chính doanh nghiệp, Thị trường tài chính, Tài chính quốc tế, Thị trường chứng khoán,  Thẩm định tín dụng, Kinh doanh ngoại hối, QT ngân hàng thương mại, QT rủi ro tài chính, Luật kinh tế, Tài chính công ty đa quốc gia.
+
+User: Các tố chất mà sinh viên cần có khi học ngành Tài Chính - Ngân Hàng?
+ChatBot: Những tố chất phù hợp với ngành: Khả năng tính toán, tư duy logic và trí nhớ tốt. Đức tính cần cù, cẩn trọng và tỉ mỉ, chính xác tuyệt đối. Có sự đam mê, sáng tạo, năng động. Giỏi ngoại ngữ và tin học là hai yếu tố quan trọng cần thiết để theo học ngành Tài Chính - Ngân Hàng.
+
+User: Sau khi tốt nghiệp ngành Tài Chính - Ngân Hàng, sinh viên có thể đảm nhận các công việc gì?
+ChatBot: Các công việc tiêu biểu mà sinh viên có thể đảm nhận: Chuyên viên phụ trách tài chính, kinh doanh tiền tệ, phân tích tài chính doanh nghiệp tại các ngân hàng, chuyên viên thu hồi nợ, chăm sóc khách hàng tại các công ty, tổ chức điều hành các công tác tài chính và kế toán hoặc tư vấn về lĩnh vực tài chính cho các doanh nghiệp trong và ngoài nước.
+User: Ngành Quản Trị Kinh Doanh là ngành gì?
+ChatBot:  Quản trị kinh doanh là việc thực hiện các hành vi quản trị quá trình kinh doanh để duy trì, phát triển công việc kinh doanh của doanh nghiệp, bao gồm việc cân nhắc, tạo ra hệ thống, quy trình và tối đa hóa "hiệu suất", "quản lý hoạt động kinh doanh" bằng quá trình tư duy và ra quyết định của nhà quản lý. 
+
+User: Ngành Quản Trị Kinh Doanh gồm các ngành chuyên sâu gì?
+ChatBot: Quản Trị Kinh Doanh có thể chia nhiều ngành chuyên sâu như: Quản trị nhân sự, Quanr trị kinh doanh tổng hợp, Quản trị kinh doanh quốc tế, Thương mại, Quản trị truyền thông, Marketing,...
+
+User: Mã ngành của ngành Quản Trị Kinh Doanh là?
+ChatBot: Mã ngành quản trị kinh doanh là 7340101.
+
+User: Khi tốt nghiệp ngành Quản Trị Kinh Doanh, sinh viên sẽ nhận được bằng gì? 
+ChatBot: Sau khi tốt nghiệp, sinh viên sẽ được cấp bằng Cử nhân do trường Đại Học Công Nghệ Thành Phố Hồ Chí Minh - Hutech cấp theo quy định của Bộ Giáo Dục & Đào Tạo.
+
+User: Các môn đại cương, sinh viên phải học trong ngành Quản Trị Kinh Doanh là?
+ChatBot: Các môn đại cương mà sinh viên phải học: Tiếng Anh, Tư duy thiết kế dự án, Giáo dục thể chất, Triết học Mác Lê-Nin, Nhập môn công nghệ thông tin, Lịch sử đảng cộng sản Việt Nam, Đại số tuyến tính và giải tích, Tư tưởng Hồ Chí Minh, Kinh tế chính trị Mác Lê-Nin, Chủ nghĩa xã hội khoa học, Quản trị học, Pháp luật đại cương, Quốc phòng an ninh.
+
+User: Tổng số tín chỉ khi học ngành Quản Trị Kinh Doanh?
+ChatBot: Có tất cả 155 tín chỉ phải hoàn thành.
+
+User: Các môn chuyên ngành tiêu biểu của ngành Quản Trị Kinh Doanh?
+ChatBot: Các môn chuyên ngành tiêu biểu: Quản trị doanh nghiệp, Quản trị Marketing, Quản trị tài chính ngân hàng, Quản trị vận hành, Quản trị kinh doanh quốc tế, Quản trị dự án, Thị trường chứng khoán, Thống kê kinh doanh, Nghệ thuật lãnh đạo.
+
+User: Các tố chất mà sinh viên cần có khi học ngành Quản Trị Kinh Doanh?
+ChatBot: Những tố chất phù hợp với ngành: Năng động, tự tin, mạnh mẽ, quyết đoán. Có tư day logic, nhạy bén, thích giao tiếp với nhiều người, có khả năng thuyết phục người khác. Chịu áp lực tốt, thích môi trường cạnh tranh. Quan tâm đến những biến động của nền kinh tế, đam mê lĩnh vực kinh doanh.
+
+User: Sau khi tốt nghiệp ngành Quản Trị Kinh Doanh, sinh viên có thể đảm nhận các công việc gì?
+ChatBot: Các công việc tiêu biểu mà sinh viên có thể đảm nhận là: Chuyên viên tại phòng kinh doanh, phòng kế hoạch, phòng marketing, phòng hỗ trợ - giao dịch khách hàng của các công ty, tập đoàn về tài chính, chứng khoán. Thăng tiến trở thành Giám đốc điều hành, Giám đốc tài chính tại các tập đoàn, công ty. Tự thành lập và điều hành công ty riêng.
+
+User: Ngành Ngôn Ngữ Anh là gì?
+ChatBot: Trong xu thế hội nhập, tiếng Anh đã trở thành ngôn ngữ chung của toàn cầu. Hiện thế giới có trên 50 quốc gia sử dụng tiếng Anh là ngôn ngữ chính, gần 80 quốc gia sử dụng tiếng Anh là ngôn ngữ thứ hai. Trong tất cả các lĩnh vực từ kinh doanh, thương mại, truyền thông cho đến du lịch, ngoại giao,... tiếng Anh đều đóng vai trò là ngôn ngữ số 1.
+
+User: Ngành Ngôn Ngữ Anh có các ngành chuyên sâu gì?
+ChatBot: Ngôn Ngữ Anh có thể thành nhiều ngành chuyên sâu như: Biên - Phiên dịch; Giảng dạy tiếng Anh; Anh văn thương mại và Truyền thông quốc tế.
+
+User: Mã ngành của ngành Ngôn Ngữ Anh là?
+ChatBot: Mã ngành của ngành Ngôn Ngữ Anh là 7220201.
+
+User: Khi tốt nghiệp ngành Ngôn Ngứ Anh, sinh viên sẽ nhận được bằng gì? 
+ChatBot: Sau khi tốt nghiệp, sinh viên sẽ được cấp bằng Cử nhân do trường Đại Học Công Nghệ Thành Phố Hồ Chí Minh - Hutech cấp theo quy định của Bộ Giáo Dục & Đào Tạo.
+User: Các môn đại cương, sinh viên phải học trong ngành Ngôn Ngữ Anh là?
+ChatBot: Các môn đại cương sinh viên phải học: Tiếng Anh, Tư duy thiết kế dự án, Giáo dục thể chất, Quốc phòng an ninh, Quản trị học, Triết học Mác Lê-Nin, Nhập môn công nghệ thông tin, Lịch sử đảng cộng sản Việt Nam, Tư tưởng Hồ Chí Minh, Kinh tế chính trị Mác Lê-Nin, Chủ nghĩa xã hội khoa học.
+
+User: Tổng số tín chỉ khi học ngành Ngôn Ngữ Anh?
+ChatBot: Có tất cả 143 tín chỉ phải hoàn thành.
+
+User: Các môn chuyên ngành tiêu biểu của ngành Ngôn Ngữ Anh?
+ChatBot: Các môn chuyên ngành tiêu biểu: Văn học Anh-Mỹ, Văn hóa Anh-Mỹ, Biên dịch Anh-Việt,Biên dịch Việt-Anh,Phiên dịch thương mại,Tiếng Anh dùng trong văn bản ngoại giao,Tiếng anh tài chính ngân hàng,Tiếng Anh du lịch,Tiếng Anh giao tiếp kinh doanh.
+
+User: Các tố chất mà sinh viên cần có khi học ngành Ngôn Ngữ Anh?
+ChatBot: Những tố chất phù hợp với ngành:Năng động,có tư duy hướng ngoại,thích khám phá. Cẩn thận, chu đáo, ham học hỏi, có kiến thức rộng về văn hóa-xã hội. Có khả năng diễn đạt và trí nhớ tốt. Có năng khiếu về ngoại ngữ, yêu thích Tiếng Anh.
+
+User: Sau khi tốt nghiệp ngành Ngôn Ngữ Anh, sinh viên có thể đảm nhận các công việc gì?
+ChatBot: Các công việc tiêu biểu mà sinh viên có thể đảm nhận là:Biên dịch viên, phiên dịch viên trong các công ty, cơ quan ngoại giao, cơ quan truyền thông các tổ chức kinh tế, xã hội của Việt Nam và quốc tế; dịch thuật cho các NXB, trung tâm phát hành sách, báo, tạp chí, …Chuyên viên truyền thông, tổ chức sự kiện, thư ký, trợ lý, … trong các công ty nước ngoài.Hướng dẫn viên, chuyên viên tư vấn tại các công ty du lịch, lữ hành, nhà hàng khách sạn.Giáo viên giảng dạy và nghiên cứu tiếng Anh tại các trường đại học, cao đẳng, trung cấp chuyên nghiệp, phổ thông trung học, trung tâm ngoại ngữ.
+User: Ngành Quản trị dịch vụ du lịch & lữ hành là gì?
+ChatBot: Quản trị dịch vụ du lịch và lữ hành là ngành học đòi hỏi sự năng động tối đa, bao gồm quá trình quản lý và điều hành du lịch, chịu trách nhiệm phân công công việc cho các hướng dẫn viên du lịch; nhận thông tin để phối hợp với các bộ phận, cơ quan chức năng giải quyết những phát sinh, thiết kế các chương trình du lịch,... Đây được xem là ngành “công nghiệp không khói” giàu tiềm năng nhất của thế kỷ trong xu hướng toàn cầu hóa.
+
+User: Ngành Quản trị dịch vụ du lịch & lữ hành đào tạo các kiến thức tổng quan gì?
+ChatBot: Ngành Quản trị dịch vụ du lịch & lữ hành đào tạo kiến thức tổng quan về du lịch như: địa lý du lịch; văn hóa, tâm lý và tập quán của du khách trong nước và quốc tế. Trang bị kiến thức chuyên môn, các kỹ năng nghiệp vụ về hướng dẫn du lịch, thiết kế tour, quản lý và điều hành tour, thiết kế và quản trị sự kiện du lịch.
+
+User: Mã ngành của ngành Quản trị dịch vụ du lịch & lữ hành là?
+ChatBot: Mã ngành của ngành Quản trị dịch vụ du lịch & lữ hành là 7810103.
+
+User: Khi tốt nghiệp ngành Quản trị dịch vụ du lịch & lữ hành, sinh viên sẽ nhận được bằng gì?
+ChatBot: Sau khi tốt nghiệp, sinh viên sẽ được cấp bằng Cử nhân do trường Đại Học Công Nghệ Thành Phố Hồ Chí Minh - Hutech cấp theo quy định của Bộ Giáo Dục & Đào Tạo.
+
+User: Các môn đại cương, sinh viên phải học trong ngành Quản trị dịch vụ du lịch & lữ hành là?
+ChatBot: Các môn đại cương sinh viên phải học: Tiếng Anh, Tư duy thiết kế dự án, Quốc phòng an ninh, Giáo dục thể chất, Nhập môn công nghệ thông tin, Triết học Mác - Lênin, Kinh tế Chính trị Mác - Lênin, Chủ nghĩa xã hội khoa học, Lịch sử Đảng Cộng sản Việt Nam,Tư tưởng Hồ Chí Minh, Quản trị học.
+
+ User: Các môn chuyên ngành tiêu biểu của ngành Quản trị dịch vụ du lịch & lữ hành?
+ChatBot: Các môn chuyên ngành tiêu biểu: Văn hóa tổ chức, Kinh tế du lịch, Văn hóa du lịch, Marketing du lịch, Phong tục-tập quán-lễ hội-truyền thống, Du lịch tôn giáo-tín ngưỡng, Quản trị lữ hành, Địa lí du lịch, Quản trị sự kiện, Hướng dẫn du lịch, Giao tiếp và lễ tân ngoại giao, PR và truyền thông cho sự kiện. 
+
+User: Các tố chất mà sinh viên cần có khi học ngành Quản trị dịch vụ du lịch & lữ hành?
+ChatBot: Những tố chất phù hợp với ngành: Năng động, tự tin, giỏi xử lí tình huống. Thích di chuyển, đam mê khám phá những điều mới lạ. Có tư chất quản lí, giao tiếp tốt. Mong muốn được làm việc và khẳng định bản thân trong lĩnh vực du lịch lữ hành.
+
+User: Sau khi tốt nghiệp ngành Quản trị dịch vụ du lịch & lữ hành, sinh viên có thể đảm nhận các công việc gì?
+ChatBot: Các công việc tiêu biểu mà sinh viên có thể đảm nhận là:Hướng dẫn viên du lịch hoặc chuyên viên phụ trách các bộ phận: lưu trú, tiếp thị, chăm sóc khách hàng, tổ chức hội nghị - sự kiện. Quản trị, điều hành, thiết kế tour tại các công ty du lịch trong và ngoài nước, các tổ chức phi chính phủ.Chuyên viên tại các Sở, Ban, Ngành về Du lịch hoặc nghiên cứu và giảng dạy về du lịch tại các cơ sở đào tạo, viện nghiên cứu.
+User: Ngành Công nghệ Kỹ thuật Ô tô  là gì?
+ChatBot: Công nghệ kỹ thuật ô tô là ngành học tích hợp kiến thức của nhiều lĩnh vực: cơ khí, tự động hóa, điện – điện tử và công nghệ chế tạo máy, chuyên về lĩnh vực khai thác, sử dụng và dịch vụ kỹ thuật ô tô – loại phương tiện giao thông vận tải thông dụng và có số lượng nhiều nhất hiện nay như điều hành sản xuất phụ tùng; điều kiện và lắp ráp ô tô; cải tiến, nâng cao hiệu quả sử dụng ô tô.
+
+User: Ngành Công nghệ Kỹ thuật Ô tô đào tạo các kiến thức tổng quan gì?
+ChatBot: Ngành Công nghệ Kỹ thuật Ô tô đào tạo kiến thức và kỹ năng chuyên sâu về cơ khí ô tô – máy động lực, hệ thống truyền động – truyền lực, cơ cấu khí, hệ thống điều khiển,… để có khả năng áp dụng những nguyên lý kỹ thuật cơ bản, kỹ năng thực hành cao và các kỹ năng kỹ thuật liên quan đến ô tô.
+
+User: Mã ngành của ngành Công nghệ Kỹ thuật Ô tô là?
+ChatBot: Mã ngành của ngành Công nghê Kỹ thuật Ô tô là 7510205.
+
+User: Khi tốt nghiệp ngành Công nghệ Kỹ thuật Ô tô, sinh viên sẽ nhận được bằng gì?
+ChatBot: Sau khi tốt nghiệp, sinh viên sẽ được cấp bằng Cử nhân do trường Đại Học Công Nghệ Thành Phố Hồ Chí Minh - Hutech cấp theo quy định của Bộ Giáo Dục & Đào Tạo.
+
+User: Các môn đại cương, sinh viên phải học trong ngành Công nghệ Kỹ thuật Ô tô là?
+ChatBot: Các môn đại cương sinh viên phải học: Tiếng Anh, Tư duy thiết kế dự án, Quốc phòng an ninh, Giáo dục thể chất, Nhập môn Công nghệ Kỹ thuật Ô tô, Đại số tuyến tính và giải tích, Vật lý cơ, Tin học kỹ thuật, Triết học Mác - Lênin, Kinh tế chính trị Mác - Lênin, Chủ nghĩa xã hội khoa học, Lịch sử Đảng Cộng sản Việt Nam,  Tư tưởng Hồ Chí Minh, Pháp luật đại cương.
+
+User: Tổng số tín chỉ khi học ngành Công nghệ Kỹ thuật Ô tô?
+ChatBot: Có tất cả 168 tín chỉ cần phải hoàn thành.
+
+User: Các môn chuyên ngành tiêu biểu của ngành Công nghệ Kỹ thuật Ô tô?
+ChatBot: Các môn chuyền ngành tiêu biểu: Tính toán Ô tô; Hệ thống điện-điện ô tô; Hệ thống điều khiển tự động trên ô tô; Công nghệ chuẩn đoán, sửa chửa và kiểm định ô tô; Hệ thống an toàn và tiện nghi trên ô tô.
+
+User: Các tố chất mà sinh viên cần có khi học ngành Công nghệ Kỹ thuật Ô tô?
+ChatBot: Những tố chất phù hợp với ngành:Sức khỏe tốt,kiên trì và không ngại khó khăn.Cẩn thận,tỉ mỉ,chính xác.Ham học hỏi,thích tiếp cận cái mới.Yêu công nghệ, thích sáng tạo và đam mê lĩnh vực ô tô.
+
+User: Sau khi tốt nghiệp ngành Công nghệ Kỹ thuật Ô tô, sinh viên có thể đảm nhận các công việc gì?
+ChatBot:  Các công việc tiêu biểu mà sinh viên có thể đảm nhận là:Kỹ sư vận hành, giám sát sản xuất phụ tùng, phụ kiện và lắp ráp ô tô - máy động lực tại các nhà máy sản xuất phụ tùng, phụ kiện và lắp ráp ôtô, các cơ sở sửa chữa, bảo trì bảo dưỡng ôtô. Kiểm định viên tại các trạm đăng kiểm ô tô. Nhân viên kinh doanh tại các doanh nghiệp kinh doanh ô tô, máy động lực, phụ tùng ô tô. 
+User: Ngành Marketing là gì?
+ChatBot: Marketing là một hình thức không thể thiếu trong kinh doanh, bao gồm tất cả các hoạt động hướng tới khách hàng nhằm thỏa mãn nhu cầu và mong muốn của họ thông qua quá trình tiếp thị sản phẩm, phát triển thương hiệu. Mục tiêu cao nhất của marketing chính là trở thành chiếc cầu nối bền chặt giữa doanh nghiệp với khách hàng mục tiêu.
+
+User: Ngành Marketing đào tạo các kiến thức tổng quan gì?
+ChatBot:  Ngành Marketing đào tạo kiến thức tổng quan về  Marketing hiện đại, bao gồm các khía cạnh: nghiên cứu thị trường, xây dựng và phát triển các mối quan hệ khách hàng, thiết kế chương trình phân phối sản phẩm, tổ chức phân phối sản phẩm, định giá sản phẩm, quảng bá thương hiệu, tổ chức sự kiện,...
+
+User: Mã ngành của ngành Marketing là?
+ChatBot: Mã ngành của ngành Marketing là 7340115.
+
+User: Khi tốt nghiệp ngành Marketing, sinh viên sẽ nhận được bằng gì?
+ChatBot: Sau khi tốt nghiệp, sinh viên sẽ được cấp bằng Cử nhân do trường Đại Học Công Nghệ Thành Phố Hồ Chí Minh - Hutech cấp theo quy định của Bộ Giáo Dục & Đào Tạo.
+
+User: Các môn đại cương, sinh viên phải học trong ngành Marketing là?
+ChatBot: Các môn đại cương sinh viên phải học: Tiếng Anh, Tư duy thiết kế dự án, Quốc phòng an ninh, Giáo dục thể chất, Nhập môn Công nghệ thông tin, Đại số tuyến tính và giải tích, Pháp luật đại cương, Khởi nghiệp, Triết học Mác - Lênin, Kinh tế chính trị Mác - Lênin, Chủ nghĩa xã hội khoa học, Lịch sử Đảng Cộng sản Việt Nam,  Tư tưởng Hồ Chí Minh. Quản trị học. 
+
+User: Tổng số tín chỉ khi học ngành Marketing?
+ChatBot: Có tất cả 155 tín chỉ cần phải hoàn thành.
+
+User: Các môn chuyên ngành tiêu biểu của ngành Marketing?
+ChatBot: Các môn chuyền ngành tiêu biểu: Marketing căn bản, Quản trị marketing, Quản trị bán hàng, Hành vi người tiêu dùng, Chiến lược sản phẩm, Chiến lược giá và phân phối, Quảng cáo và khuyến mãi, Marketing quốc tế, Marketing dịch vụ, PR tổ chức sự kiện.
+
+User: Các tố chất mà sinh viên cần có khi học ngành Marketing?
+ChatBot: Những tố chất phù hợp với ngành:Tự tin, kiên trì, thích mạo hiểm. Năng động, linh hoạt, có khả năng quan sát và nhạy bén trong việc nắm bắt tâm lý người khác. Ham học hỏi, am hiểu sâu rộng về các lĩnh vực khác nhau của văn hóa, xã hội, kinh tế. Đam mê lĩnh vực kinh tế và hoạt động Marketing. 
+
+User: Sau khi tốt nghiệp ngành Marketing, sinh viên có thể đảm nhận các công việc gì?
+ChatBot:  Các công việc tiêu biểu mà sinh viên có thể đảm nhận là: Chuyên viên nghiên cứu thị trường, chăm sóc khách hàng, quảng cáo, quan hệ công chúng, phát triển sản phẩm, phát triển và quản trị thương hiệu tại các doanh nghiệp thuộc mọi thành phần kinh tế. Cán bộ nghiên cứu hoạch định chiến lược marketing, quản lý tổ chức kế hoạch marketing, tổ chức thực hiện các hoạt động quan hệ khách hàng tại các công ty chuyên về truyền thông, tổ chức sự kiện, quảng cáo,…Giảng dạy, nghiên cứu về quản trị kinh doanh, marketing tại các trường đại học, cao đẳng, trung cấp chuyên nghiệp.
+User: Ngành Logistics & Quản lý chuỗi cung ứng là gì?
+ChatBot:  Logistics và Quản lý chuỗi cung ứng là ngành nghiên cứu, phát triển và quản trị các dịch vụ vận chuyển trong quá trình sản xuất kinh doanh. Logistics liên quan tới chuỗi các hoạt động bao gồm lên kế hoạch, áp dụng và kiểm soát các luồng chuyển dịch của hàng h óa, kiểm soát nguồn nguyên nhiên liệu vật tư (đầu vào) và sản phẩm cuối cùng (đầu ra) từ điểm xuất phát tới điểm tiêu thụ.
+User: Ngành  Logistics & Quản lý chuỗi cung ứng đào tạo các kiến thức tổng quan gì?
+ChatBot: Ngành Logistics & Quản lý chuỗi cung ứng trang bị cho sinh viên kiến thức cơ bản và chuyên sâu về chuỗi cung ứng, hệ thống phân phối, giao nhận vận tải, quản trị chiến lược, xây dựng – quản lý hệ thống các kho bãi và các điểm kết nối kho bãi, các phương thức vận tải như đường bộ, đường sắt, đường biển, kiến thức bổ trợ về marketing quốc tế, tài chính – kế toán trong vận tải đa phương thức. Trang bị thêm cho sinh viên các kỹ năng chuyên môn quan trọng như kỹ năng tính toán, kỹ năng phân tích thị trường và xây dựng chiến lược, tin học ứng dụng cùng các kỹ năng mềm như kỹ năng giao tiếp, kỹ năng quản lý thời gian.
+
+User: Mã ngành của ngành Logistics & Quản lý chuỗi cung ứng là?
+ChatBot: Mã ngành của ngành  Logistics & Quản lý chuỗi cung ứng là 7510605.
+
+User: Khi tốt nghiệp ngành Logistics & Quản lý chuỗi cung ứng, sinh viên sẽ nhận được bằng gì?
+ChatBot: Sau khi tốt nghiệp, sinh viên sẽ được cấp bằng Cử nhân do trường Đại Học Công Nghệ Thành Phố Hồ Chí Minh - Hutech cấp theo quy định của Bộ Giáo Dục & Đào Tạo.
+
+User: Các môn đại cương, sinh viên phải học trong ngành Logistics & Quản lý chuỗi cung ứng là?
+ChatBot: Các môn đại cương sinh viên phải học:Tiếng Anh, Tư duy thiết kế dự án, Quốc phòng an ninh, Giáo dục thể chất,Nhập môn Công nghệ thông tin, Đại số tuyến tính và giải tích, Quản trị học, Triết học Mác - Lênin, Kinh tế chính trị Mác - Lênin, Chủ nghĩa xã hội khoa học, Lịch sử Đảng Cộng sản Việt Nam,  Tư tưởng Hồ Chí Minh, Pháp luật đại cương.
+
+User: Tổng số tín chỉ khi học ngành Logistics & Quản lý chuỗi cung ứng ?
+ChatBot: Có tất cả 155 tín chỉ cần phải hoàn thành.
+
+User: Các môn chuyên ngành tiêu biểu của ngành Logistics & Quản lý chuỗi cung ứng?
+ChatBot: Các môn chuyền ngành tiêu biểu:Nguyên lý logistics và quản lí chuỗi cung ứng,Hệ thống thông tin trong chuỗi cung ứng, Quản lí phân phối, Quản lí bán lẻ, Quản lí tồn kho, Hệ thống vận tải và hậu cần quốc tế, Quản lí rũi ro và an toàn trong chuỗi cung ứng.
+
+User: Các tố chất mà sinh viên cần có khi học ngành Logistics & Quản lý chuỗi cung ứng?
+ChatBot: Những tố chất phù hợp với ngành:Tư duy logic và tư duy hệ thống tốt. Tinh thần trách nhiệm cao,yêu thích lĩnh vực kinh doanh, xuất nhập khẩu.Năng động,quyết đoán,xử lí tình huống nhanh nhạy.Có khả năng ngoại ngữ.
+
+User: Sau khi tốt nghiệp ngành Logistics & Quản lý chuỗi cung ứng, sinh viên có thể đảm nhận các công việc gì?
+ChatBot:  Các công việc tiêu biểu mà sinh viên có thể đảm nhận là:Chuyên viên quản trị kinh doanh, dịch vụ vận tải, kinh doanh xuất nhập khẩu, chăm sóc khách hàng trong các công ty dịch vụ logtistics.Chuyên viên điều phối dịch vụ logistics, điều phối đơn hàng, phương tiện vận chuyển,… Quản lý kho bãi, quản lý vận chuyển, giám sát đối tác cung cấp dịch vụ logistics trong các công ty sản xuất, kinh doanh.Nghiên cứu và giảng dạy các bộ môn về logistics tại các Viện nghiên cứu, trường Đại học, Cao đẳng,...
+User: Ngành Kinh doanh quốc tế là gì?
+ChatBot:Kinh doanh quốc tế thuộc nhóm ngành kinh doanh, ngành này cung cấp những kiến thức chung về quản trị kinh doanh và kiến thức chuyên môn thuộc lĩnh vực kinh doanh quốc tế như đầu tư quốc tế, logistic và vận tải quốc tế, thanh toán quốc tế, marketing quốc tế, hoạch định chiến lược kinh doanh quốc tế...
+
+User: Ngành Kinh doanh quốc tế đào tạo các kiến thức tổng quan gì?
+ChatBot: Ngành Kinh doanh quốc tế Cung cấp kiến thức nền tảng về quản trị kinh doanh, các vấn đề tổng quan và chuyên sâu về thương mai quốc tế, các chính sách kinh tế đối ngoại chủ yếu hiện nay, đặc điểm phát triển kinh tế thế giới trong xu hướng toàn cầu hóa, những vấn đề về hội nhập kinh tế, đầu tư quốc tế tại Việt Nam, …Chương trình đào tạo còn cung cấp cho sinh viên các kiến thức nghiệp vụ, kỹ năng cụ thể về các vấn đề thanh toán quốc tế, bảo hiểm ngoại thương, tranh chấp trong thương mại quốc tế, cách thức xâm nhập thị trường nước ngoài…Đồng thời, kỹ năng tư vấn, kỹ năng đàm phán, thương lượng, giải quyết tình huống kinh doanh, ...
+
+User: Mã ngành của ngành Kinh doanh quốc tế là?
+ChatBot: Mã ngành của ngành Kinh doanh quốc tế là 7340120.
+
+User: Khi tốt nghiệp ngành Kinh doanh quốc tế, sinh viên sẽ nhận được bằng gì?
+ChatBot: Sau khi tốt nghiệp, sinh viên sẽ được cấp bằng Cử nhân do trường Đại Học Công Nghệ Thành Phố Hồ Chí Minh - Hutech cấp theo quy định của Bộ Giáo Dục & Đào Tạo.
+
+User: Các môn đại cương, sinh viên phải học trong ngành Kinh doanh quốc tế là?
+ChatBot: Các môn đại cương sinh viên phải học:iếng Anh, Tư duy thiết kế dự án, Quốc phòng an ninh, Giáo dục thể chất,Nhập môn Công nghệ thông tin, Đại số tuyến tính và giải tích, Quản trị học, Triết học Mác - Lênin, Kinh tế chính trị Mác - Lênin, Chủ nghĩa xã hội khoa học, Lịch sử Đảng Cộng sản Việt Nam,  Tư tưởng Hồ Chí Minh, Pháp luật đại cương.
+
+User: Tổng số tín chỉ khi học ngành Kinh doanh quốc tế ?
+ChatBot: Có tất cả 155 tín chỉ cần phải hoàn thành.
+
+User: Các môn chuyên ngành tiêu biểu của ngành Kinh doanh quốc tế?
+ChatBot: Những tố chất phù hợp với ngành:Kinh doanh quốc tế, Kỹ thuật nghiệp vụ ngoại thương, Đầu tư quốc tế, Tài chính quốc tế, Marketing quốc tế, Kinh tế quốc tế, Rủi ro và Bảo hiểm trong kinh doanh quốc tế, Vận tải và bảo hiểm ngoại thương, Đàm phán trong kinh doanh quốc tế.
+
+User: Các tố chất mà sinh viên cần có khi học ngành Kinh doanh quốc tế?
+ChatBot: Những tố chất phù hợp với ngành:Nhanh nhẹn, hoạt bát, giao tiếp tốt, có khả năng thuyết phục người khác,. Năng động, tự tin, quyết đoán. Chịu áp lực tốt, thích môi trường cạnh tranh. Có năng khiếu về ngoại ngữ, đam mê lĩnh vực kinh doanh.
+
+User: Sau khi tốt nghiệp ngành Kinh doanh quôcs tế, sinh viên có thể đảm nhận các công việc gì?
+ChatBot:  Các công việc tiêu biểu mà sinh viên có thể đảm nhận là: Chuyên viên kinh doanh, xuất nhập khẩu của các đơn vị sản xuất kinh doanh, các công ty thương mại, công ty xuất nhập khẩu, văn phòng đại diện, đại lý vận tải tàu biển, hàng không, bảo hiểm, ngân hàng…Nhân viên, trợ lý xuất nhập khẩu, thăng tiến trở thành nhà quản lý xuất nhập khẩu hay lãnh đạo tại các công ty nước ngoài hoạt động trong lĩnh vực kinh doanh quốc tế.Giảng dạy và nghiên cứu tại các trường đại học, cao đẳng có đào tạo về quản trị kinh doanh và kinh doanh quốc tế.
+
+Ngành Công Nghệ Thông Tin là ngành gì?
+ChatBot: Ngành công nghệ thông tin là một trong những ngành học được chú trọng trong hệ thống đào tạo, được xem là ngành đào tạo mũi nhọn hướng đến sự phát triển của công nghệ và khoa học kỹ thuật trong thời đại số hóa ngày nay.
+User: Ngành Công Nghệ Thông Tin gồm các ngành chuyên sâu gì?
+ChatBot: - Lập trình di động
+	    - Kiểm thử phần mềm
+	    - Kỹ thuật truyền số liệu (CTT)
+	    - Phân tích và thiết kế hệ thống thông tin
+	    - Mạng máy tính nâng cao
+	    - An ninh mạng
+	    - Khai phá dữ liệu
+	    - Hệ thống thông tin quản lý
+User: Mã ngành của ngành Công Nghệ Thông Tin ?
+ChatBot: Mã ngành Cồng Nghệ Thông Tin là 7480201
+User: Khi tốt nghiệp ngành Công Nghệ Thông Tin, sinh viên sẽ nhận được bằng gì?
+ChatBot:  Khi tốt nghiệp, sinh viên sẽ được nhận bằng Cử nhân do Đại học Công Nghệ TP.HCM (Hutech) cấp theo quy định của Bộ Giáo Dục & Đào Tạo.
+User:  Các môn đại cương, sinh viên phải học trong ngành Công Nghệ Thông Tin là gì?
+ChatBot:  Các môn đại cương: Tiếng Anh, Tư duy thiết kế dự án, Giáo dục thể chất, Triết học Mác Lê-Nin, Nhập môn công nghệ thông tin, Lịch sử đảng cộng sản Việt Nam, Đại số tuyến tính và giải tích, Tư tưởng Hồ Chí Minh, Kinh tế chính trị Mác Lê-Nin, Chủ nghĩa xã hội khoa học, Quản trị học, Pháp luật đại cương, Quốc phòng an ninh.
+User: Các môn chuyên ngành tiêu biểu của ngành Công Nghệ Thông Tin ?
+ChatBot: Công nghệ phần mềm, Hệ thống thông tin tín dụng, Mạng máy tính, Máy học và ứng dụng, An ninh mạng
