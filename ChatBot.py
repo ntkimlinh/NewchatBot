@@ -35,14 +35,14 @@ def ask_ai():
     storage_context = StorageContext.from_defaults(persist_dir='storage')
     # load index
     index = load_index_from_storage(storage_context, index_id="vector_index")
+    query_engine = index.as_query_engine()
     print(
             Fore.GREEN
             + Style.BRIGHT
-            + "Đây là ChatBot là có vấn cho Viện quốc tế của đại học Hutech.\n"
+            + "Đây là ChatBot là cố vấn cho Viện quốc tế của đại học Hutech, tên là HuBot.\n"
             + Fore.GREEN + Style.BRIGHT + "ChatBot: Tôi có thể giúp gì được cho bạn?"
         )
     while True: 
-        query_engine = index.as_query_engine()
         query =  input(Fore.BLUE + Style.BRIGHT +"User: ")
         response = query_engine.query(query)
         print(Fore.LIGHTMAGENTA_EX + Style.BRIGHT + "Chatbot: " + response.response)
